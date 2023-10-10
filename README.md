@@ -1,4 +1,4 @@
 # hotel-test-repo
-#type whatever
-#still typing
-#i hate MACos
+## type whatever
+## still typing
+## i hate MACos atm
